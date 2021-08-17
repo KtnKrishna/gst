@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Gst/src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Gst/src/main/webapp/WEB-INF/lib/activation.jar"/>
+	<classpathentry kind="lib" path="Gst/src/main/webapp/WEB-INF/lib/ini4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="Gst/src/main/webapp/WEB-INF/lib/mail.jar"/>
+	<classpathentry kind="lib" path="Gst/src/main/webapp/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="Gst/src/main/webapp/WEB-INF/lib/org.json.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/catalina.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/catalina-ant.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/catalina-ha.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/catalina-storeconfig.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/catalina-tribes.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/ecj-4.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/el-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/jasper.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/jasper-el.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/jaspic-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/jsp-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-coyote.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-dbcp.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-i18n-es.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-i18n-fr.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-i18n-ja.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-jdbc.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-jni.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-util.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-util-scan.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/tomcat-websocket.jar"/>
+	<classpathentry kind="lib" path="E:/java software/apache-tomcat-9.0.0.M9/lib/websocket-api.jar"/>
+	<classpathentry kind="lib" path="E:/java software/ini4j-0.5.1.jar"/>
+	<classpathentry kind="lib" path="E:/java software/mail.jar"/>
+	<classpathentry kind="lib" path="E:/java software/mysql-connector-java-5.1.6-bin.jar"/>
+	<classpathentry kind="lib" path="E:/java software/opencsv-2.1-1.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/java software/opencsv-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/java software/org.json.jar"/>
+	<classpathentry kind="lib" path="E:/java software/poi-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/java software/poi-ooxml-3.9.jar"/>
+	<classpathentry kind="output" path="Gst/build/classes"/>
+</classpath>
