@@ -34,7 +34,7 @@ public class inif {
 		System.out.println("server= " + server);
 		System.out.println("port = " + port);
 		System.out.println("username = " + username); 
-	}    asdf
+	}    000000
 	*/
 	
 	public  static String ReadIni(String File,String Header01,String iniVar, String Defult) throws InvalidFileFormatException, IOException  {
